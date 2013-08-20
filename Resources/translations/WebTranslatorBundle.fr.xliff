@@ -1,0 +1,1238 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="" >
+        <body>
+
+            <trans-unit id="bo_link_Dashboard">
+                <source>Dashboard</source>
+                <target>Accueil</target>
+            </trans-unit>
+
+            <trans-unit id="bo_link_profil">
+                <source>bo_link_profil</source>
+                <target>Profil</target>
+            </trans-unit>
+
+            <trans-unit id="bo_homepage_title">
+                <source>bo_homepage_title</source>
+                <target>Air Liquide - Prise de commandes</target>
+            </trans-unit>
+
+            <trans-unit id="bo_homepage_headline">
+                <source>bo_homepage_headline</source>
+                <target>Air Liquide</target>
+            </trans-unit>
+
+            <trans-unit id="bo_homepage_subheadline">
+                <source>bo_homepage_subheadline</source>
+                <target>Prise de commandes</target>
+            </trans-unit>
+
+            <trans-unit id="bo_homepage_block_hello">
+                <source>bo_homepage_block_hello</source>
+                <target>Bienvenue</target>
+            </trans-unit>
+
+            <trans-unit id="commande.edit.success">
+                <source>commande.edit.success</source>
+                <target>Les modifications de la commande ont bien été enregistrées</target>
+            </trans-unit>
+
+            <trans-unit id="commande.edit.error">
+                <source>commande.edit.error</source>
+                <target>Une erreur s'est produite lors de l'enregistrement des modifications</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.emetteur">
+                <source>bo.commande.form.label.emetteur</source>
+                <target>Emetteur</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.societe">
+                <source>bo.commande.form.label.societe</source>
+                <target>Société</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.pl">
+                <source>bo.commande.form.label.pl</source>
+                <target>Point de livraison</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.point_dechargement">
+                <source>bo.commande.form.label.point_dechargement</source>
+                <target>Point de déchargement</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.jour_tournee">
+                <source>bo.commande.form.label.jour_tournee</source>
+                <target>Jour de tournée Air Liquide</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.reference_client">
+                <source>bo.commande.form.label.reference_client</source>
+                <target>Réference client</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.donneur_ordre">
+                <source>bo.commande.form.label.donneur_ordre</source>
+                <target>Donneur d'ordre</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.chantier">
+                <source>bo.commande.form.label.chantier</source>
+                <target>Chantier</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.nom_chantier">
+                <source>bo.commande.form.label.nom_chantier</source>
+                <target>Nom du chantier</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.adresse_livraison_chantier">
+                <source>bo.commande.form.label.adresse_livraison_chantier</source>
+                <target>Adresse de livraison</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.point_dechargement_chantier">
+                <source>bo.commande.form.label.point_dechargement_chantier</source>
+                <target>Point de déchargement</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.commande">
+                <source>bo.commande.form.label.commande</source>
+                <target>Commande</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.date_commande">
+                <source>bo.commande.form.label.date_commande</source>
+                <target>Date de commande</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.emise_par">
+                <source>bo.commande.form.label.emise_par</source>
+                <target>Emise par</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.selection_produits">
+                <source>bo.commande.form.label.selection_produits</source>
+                <target>Sélection des produits</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.colonnes.nom_produit">
+                <source>bo.commande.form.label.colonnes.nom_produit</source>
+                <target>Nom du produit</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.colonnes.reference_produit">
+                <source>bo.commande.form.label.colonnes.reference_produit</source>
+                <target>Référence SAP</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.colonnes.reference_client">
+                <source>bo.commande.form.label.colonnes.reference_client</source>
+                <target>Référence produit client</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.colonnes.a_livrer">
+                <source>bo.commande.form.label.colonnes.a_livrer</source>
+                <target>À livrer</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.colonnes.a_reprendre">
+                <source>bo.commande.form.label.colonnes.a_reprendre</source>
+                <target>À reprendre</target>
+            </trans-unit>
+
+            <trans-unit id="bo.commande.form.label.colonnes.emballage">
+                <source>bo.commande.form.label.colonnes.emballage</source>
+                <target>Dont reprise emballage plein ou réclamation</target>
+            </trans-unit>
+
+            <trans-unit id="security.login.language">
+                <source>security.login.language</source>
+                <target>Langue</target>
+            </trans-unit>
+
+
+
+
+
+
+
+
+
+
+
+
+            <trans-unit id="commande_register_presentation_text">
+                <source>commande register presentation text</source>
+                <target>texte de présenation de l'inscription</target>
+            </trans-unit>
+
+
+            <trans-unit id="secteur_product_delete_remplacement_success_message">
+                <source>secteur product delete remplacement success message</source>
+                <target>La suppression du produit de remplacement est effectuée avec succès.</target>
+            </trans-unit>
+
+            <trans-unit id="secteur_product_remplacement_success_message">
+                <source>secteur product remplacement success message</source>
+                <target>Le remplacement a été effectué avec succès.</target>
+            </trans-unit>
+
+            <trans-unit id="commande_reception_success_message">
+                <source>commande reception success message</source>
+                <target>Nous avons réceptionné votre commande</target>
+            </trans-unit>
+
+            <trans-unit id="commande_flow_reception_email_subject">
+                <source>commande flow validation reception email subject</source>
+                <target>Accusé de réception de commande</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_notification_disable_success_message">
+                <source>client admin notification disable success message</source>
+                <target>Le client est désactivé avec succès.</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_notification_disable_error_message">
+                <source>client admin notification disable error message</source>
+                <target>Ce client ne peut pas être désactivé, plusieurs commandes y sont associées.</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_notification_exception_message">
+                <source>client admin notification exception message</source>
+                <target>Une erreur s'est produite lors de l'exécution.</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_notification_enable_success_message">
+                <source>client admin notification enable success message</source>
+                <target>Le client est activé avec succès.</target>
+            </trans-unit>
+
+            <trans-unit id="profile_admin_edit_success_message">
+                <source>profile admin edit success message</source>
+                <target>Votre compte a été mis à jour</target>
+            </trans-unit>
+
+            <trans-unit id="user_notification_disable_success_message">
+                <source>user notification disable success message</source>
+                <target>L'utilisateur a été débloqué avec succès.</target>
+            </trans-unit>
+
+            <trans-unit id="user_notification_already_blocked_message">
+                <source>user notification already blocked message</source>
+                <target>Cet utilisateur est déja débloqué.</target>
+            </trans-unit>
+
+            <trans-unit id="blocked_account_alert_message">
+                <source>BLOCKED_ACCOUNT</source>
+                <target>Compte bloqué.</target>
+            </trans-unit>
+
+            <trans-unit id="disabled_client_alert_message">
+                <source>DISABLED_CLIENT</source>
+                <target>Client désactivé.</target>
+            </trans-unit>
+
+            <trans-unit id="commande_admin_etat_new_label">
+                <source>secteur admin etat new label</source>
+                <target>nouvelle</target>
+            </trans-unit>
+
+            <trans-unit id="commande_admin_etat_TOSAP_label">
+                <source>secteur admin etat TO SAP label</source>
+                <target>transférée à SAP</target>
+            </trans-unit>
+
+            <trans-unit id="secteur_admin_products_list_title">
+                <source>secteur admin products list title</source>
+                <target>Gestion des produits de remplacement du secteur</target>
+            </trans-unit>
+
+            <trans-unit id="secteur_admin_first_product_label">
+                <source>secteur admin first product label</source>
+                <target>Produit initial</target>
+            </trans-unit>
+
+            <trans-unit id="secteur_admin_second_product_label">
+                <source>secteur admin second product label</source>
+                <target>Produit de remplacement</target>
+            </trans-unit>
+
+            <trans-unit id="secteur_admin_products_empty_message">
+                <source>secteur admin products empty message</source>
+                <target>Aucun produit de remplacement n'est encore associé à ce secteur</target>
+            </trans-unit>
+
+            <trans-unit id="secteur_admin_products_add_btn_text">
+                <source>secteur admin products add button text</source>
+                <target>Remplacer</target>
+            </trans-unit>
+
+            <trans-unit id="secteur_admin_products_link_text">
+                <source>commande admin products link text</source>
+                <target>Gestion des produits de remplacement</target>
+            </trans-unit>
+
+            <trans-unit id="secteur_admin_code_label">
+                <source>commande admin code label</source>
+                <target>Code secteur</target>
+            </trans-unit>
+
+            <trans-unit id="secteur_admin_libelle_label">
+                <source>secteur admin libelle label</source>
+                <target>Libellé</target>
+            </trans-unit>
+
+            <trans-unit id="commande_admin_ref_label">
+                <source>commande admin ref label</source>
+                <target>Référence</target>
+            </trans-unit>
+
+            <trans-unit id="commande_admin_etat_label">
+                <source>commande admin etat label</source>
+                <target>Etat</target>
+            </trans-unit>
+
+            <trans-unit id="commande_admin_user_client_label">
+                <source>commande admin user client label</source>
+                <target>Utilisateur client</target>
+            </trans-unit>
+
+            <trans-unit id="commande_admin_livraison_addresse_label">
+                <source>commande admin user livraison adresse label</source>
+                <target>Adresse de livraison</target>
+            </trans-unit>
+
+            <trans-unit id="commande_admin_date_label">
+                <source>commande admin date label</source>
+                <target>Date/heure </target>
+            </trans-unit>
+
+            <trans-unit id="charge_de_commande_admin_secteur_label">
+                <source>charge de commande admin secteur label</source>
+                <target>Secteur</target>
+            </trans-unit>
+
+            <trans-unit id="charge_de_commande_admin_fax_label">
+                <source>charge de commande admin fax label</source>
+                <target>Fax</target>
+            </trans-unit>
+
+            <trans-unit id="products_livraison_admin_empty_list_message">
+                <source>products livraison admin empty list message</source>
+                <target>Aucun produit n'est encore associé à ce point de livraison</target>
+            </trans-unit>
+
+            <trans-unit id="products_livraison_admin_add_prodcut_button_text">
+                <source>products livraison admin add prodcut button text</source>
+                <target>Ajouter le produit</target>
+            </trans-unit>
+
+            <trans-unit id="products_livraison_admin_title">
+                <source>products livraison admin title</source>
+                <target>Liste des produits du point de livraison</target>
+            </trans-unit>
+
+            <trans-unit id="livraison_admin_side_menu_edit_client_link_text">
+                <source>livraison admin side menu edit client link text</source>
+                <target>Éditer le client</target>
+            </trans-unit>
+
+            <trans-unit id="livraison_admin_code_sh_label">
+                <source>livraison admin code sh label</source>
+                <target>Code SH</target>
+            </trans-unit>
+
+            <trans-unit id="livraison_admin_adresse_label">
+                <source>livraison admin adresse label</source>
+                <target>Adresse</target>
+            </trans-unit>
+
+            <trans-unit id="livraison_admin_code_postal_label">
+                <source>livraison admin code postal label</source>
+                <target>Code postal</target>
+            </trans-unit>
+
+            <trans-unit id="livraison_admin_city_label">
+                <source>livraison admin city label</source>
+                <target>Ville</target>
+            </trans-unit>
+
+            <trans-unit id="livraison_admin_point_dechargement_label">
+                <source>livraison admin point dechargement label</source>
+                <target>Point de déchargement</target>
+            </trans-unit>
+
+            <trans-unit id="livraison_admin_tournee_label">
+                <source>livraison admin jours tournee label</source>
+                <target>Jours de tournée</target>
+            </trans-unit>
+
+            <trans-unit id="livraison_admin_products_link_text">
+                <source>livraison admin products link text</source>
+                <target>liste des produits</target>
+            </trans-unit>
+
+            <trans-unit id="user_admin_activate_user_link_text">
+                <source>user admin activate user link text</source>
+                <target>Débloquer</target>
+            </trans-unit>
+
+            <trans-unit id="user_admin_form_client_label">
+                <source>user admin form client label</source>
+                <target>Client</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_form_donneur_label">
+                <source>client admin form donneur label</source>
+                <target>N° de donneur d'ordre</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_form_client_name_label">
+                <source>client admin form client name label</source>
+                <target>Nom du client</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_form_password_label">
+                <source>client admin form password label</source>
+                <target>Mot de passe</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_form_actif_label">
+                <source>client admin form actif label</source>
+                <target>Actif</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_list_users_link_text">
+                <source>client admin list users link text</source>
+                <target>Liste des utilisateurs</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_list_point_livraison_link_text">
+                <source>client admin list point livraison link text</source>
+                <target>Liste des points de livraison</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_list_enable_link_text">
+                <source>client admin list enable link text</source>
+                <target>Activer</target>
+            </trans-unit>
+
+            <trans-unit id="client_admin_list_disable_link_text">
+                <source>client admin list disable link text</source>
+                <target>Désactiver</target>
+            </trans-unit>
+
+            <trans-unit id="produit_numSap">
+                <source>produit.numSap</source>
+                <target>Référence du produit (SAP)</target>
+            </trans-unit>
+
+            <trans-unit id="produit_nom">
+                <source>produit.nom</source>
+                <target>Nom du produit</target>
+            </trans-unit>
+
+            <trans-unit id="client_list">
+                <source>Client List</source>
+                <target>Clients</target>
+            </trans-unit>
+
+
+            <trans-unit id="ChargeDeCommande_list_">
+                <source>Charge De Commande List</source>
+                <target>Chargés de commande</target>
+            </trans-unit>
+
+            <trans-unit id="cms_list">
+                <source>BlockCms List</source>
+                <target>CMS</target>
+            </trans-unit>
+
+            <trans-unit id="ChargeDeCommande_list">
+                <source>ChargeDeCommande List</source>
+                <target>Chargés de commande</target>
+            </trans-unit>
+
+            <trans-unit id="Commande_list">
+                <source>Commande List</source>
+                <target>Commandes</target>
+            </trans-unit>
+
+            <trans-unit id="bo_menu_libelle_commandes_nouvelles">
+                <source>bo_menu_libelle_commandes_nouvelles</source>
+                <target>Nouvelles commandes</target>
+            </trans-unit>
+
+            <trans-unit id="bo_menu_libelle_commandes_terminees">
+                <source>bo_menu_libelle_commandes_terminees</source>
+                <target>Commandes terminées</target>
+            </trans-unit>
+
+            <trans-unit id="secteur_list">
+                <source>Secteur List</source>
+                <target>Secteurs</target>
+            </trans-unit>
+
+            <trans-unit id="product_list">
+                <source>Produit List</source>
+                <target>Produits</target>
+            </trans-unit>
+
+            <trans-unit id="bo_menu_libelle_produits">
+                <source>bo_menu_libelle_produits</source>
+                <target>Liste des produits</target>
+            </trans-unit>
+
+            <trans-unit id="bo_menu_libelle_clients">
+                <source>bo_menu_libelle_clients</source>
+                <target>Liste des clients</target>
+            </trans-unit>
+
+            <trans-unit id="bo_menu_libelle_cms">
+                <source>bo_menu_libelle_cms</source>
+                <target>Modification de l'éditorial</target>
+            </trans-unit>
+
+            <trans-unit id="bo_menu_libelle_ChargeDeCommande">
+                <source>bo_menu_libelle_ChargeDeCommande</source>
+                <target>Liste des chargés de commande</target>
+            </trans-unit>
+
+            <trans-unit id="bo_menu_libelle_commande">
+                <source>bo_menu_libelle_commande</source>
+                <target>Toutes les commandes</target>
+            </trans-unit>
+
+            <trans-unit id="bo_menu_libelle_secteur">
+                <source>bo_menu_libelle_secteur</source>
+                <target>Liste des secteurs</target>
+            </trans-unit>
+
+            <trans-unit id="bo_profil_edit_password_label">
+                <source>password_label</source>
+                <target>Mot de passe</target>
+            </trans-unit>
+
+            <trans-unit id="bo_profil_edit_password_confirmation_label">
+                <source>confirmation_password_label</source>
+                <target>Confirmation du mot de passe</target>
+            </trans-unit>
+
+            <trans-unit id="profil_edit_button_validate_label">
+                <source>profil edit button validate label</source>
+                <target>Valider</target>
+            </trans-unit>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <trans-unit id="fo_commande_login_forget_password_link_text">
+                <source>commande login forget password link text</source>
+                <target>Mot de passe oublié</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_forget_password_page_title">
+                <source>commande forget password page title</source>
+                <target>Mot de passe oublié ?</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_forget_password_confirmation_email_title">
+                <source>commande forget password confirmation email title</source>
+                <target>Votre mot de passe a été réinitialisé avec succès</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_forget_password_confirmation_civlity_label">
+                <source>commande forget password civlity label</source>
+                <target>Mme/Mr</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_forget_password_confirmation_url_text">
+                <source>commande forget password url text</source>
+                <target>Veuillez confirmer votre nouveau mot de passe à l'adresse suivante</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_forget_password_confirmation_mail_body_text">
+                <source>commande forget password mail body text</source>
+                <target><![CDATA[ Vous trouverez dans votre espace client les options nécessaires pour modifier vos données ou votre mot de passe.
+
+                A bientôt sur notre site.
+
+                Votre équipe AIR LIQUIDE FRANCE INDUSTRIE ]]></target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_forget_password_email_label">
+                <source>commande forget password email label</source>
+                <target>Email</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_forget_password_btn_cancel">
+                <source>commande forget password button cancel</source>
+                <target>Annuler</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_login_register_link_text">
+                <source>commande login register link text</source>
+                <target>Inscription</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_login_register_button_label">
+                <source>commande login register button label</source>
+                <target>S’inscrire</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_help_text">
+                <source>commande register headline</source>
+                <target>Aide à l'inscription</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_mail_subject_text">
+                <source>commande register email subject text</source>
+                <target>Bienvenue chez ALFI</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_validation_client_message">
+                <source>commande register validation client message</source>
+                <target>Les paramètres du compte client fournis pour l'inscription ne sont pas valides</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_help_message">
+                <source>commande register help message</source>
+                <target><![CDATA[ Afin de vous inscrire sur le site,reportez votre code client ainsi que le mot de passe qui vous ont été communiqués par courrier.
+
+                Veuillez également compléter les différents champs.
+
+                Cliquez sur le bouton « S’inscrire » pour finaliser et enregistrer vos données.
+
+                Lors de vos prochaines commandes, vous vous connecterez à l’aide de votre adresse mail et de votre mot de passe. ]]></target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_form_num_client_label">
+                <source>commande register form num client label</source>
+                <target>N° Client</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_form_password_client_label">
+                <source>commande register form password client label</source>
+                <target>Mot de passe client</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_form_email_label">
+                <source>commande register form email label</source>
+                <target>Email</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_form_phone_label">
+                <source>commande register form phone label</source>
+                <target>Téléphone</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_form_civility_label">
+                <source>commande register form civility label</source>
+                <target>Civilité</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_form_nom_label">
+                <source>commande register form nom label</source>
+                <target>Nom</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_form_prenom_label">
+                <source>commande register form prenom label</source>
+                <target>Prénom</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_form_password_label">
+                <source>commande register form password label</source>
+                <target>Mot de passe</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_form_password_confirmation_label">
+                <source>commande register form password confirmation label</source>
+                <target>Confirmation du mot de passe</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_confirmation_page_title">
+                <source>commande register confirmation page title</source>
+                <target>Confirmation de votre inscription</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_confirmation_btn_return">
+                <source>commande register confirmation btn return</source>
+                <target>Retour</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_confirmation_new_commande_btn">
+                <source>commande register confirmation new commande btn</source>
+                <target>Passez commande</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_confirmation_mail_body_title">
+                <source>commande register confirmation mail body title</source>
+                <target>Nous vous remercions pour votre inscription et sommes ravis de vous accueillir en tant que client(e) enregistré(e) chez AIR LIQUIDE FRANCE INDUSTRIE.</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_confirmation_mail_body_rappel_identifiants">
+                <source>commande register confirmation mail body rappel identifiants</source>
+                <target>Rappel de vos identifiants</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_confirmation_mail_body_email_label">
+                <source>commande register confirmation mail body email label</source>
+                <target>Email</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_confirmation_mail_body_password_label">
+                <source>commande register confirmation mail body password label</source>
+                <target>Mot de passe</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_register_confirmation_mail_body_text">
+                <source>commande register confirmation mail body text</source>
+                <target><![CDATA[ Vous n´avez désormais plus besoin d´indiquer vos coordonnées pour passer commande : dès que vous vous connectez avec votre adresse e-mail et votre mot de passe, vos données sont automatiquement utilisées pour vos commandes.
+
+                Si plus tard vous désirez modifier vous données personnelles, vous trouverez dans votre espace client les options nécessaires.
+
+                A bientôt sur notre site.
+
+                Votre équipe AIR LIQUIDE FRANCE INDUSTRIE ]]></target>
+            </trans-unit>
+
+
+            <trans-unit id="fo_commande_profile_show_client_label">
+                <source>fo commande profile show user client label</source>
+                <target>Société</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_profile_show_email_label">
+                <source>fo commande profile show email label</source>
+                <target>Email</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_profile_show_phone_label">
+                <source>fo commande profile show phone label</source>
+                <target>Tél.</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_profile_show_btn_return">
+                <source>fo commande profile show button return</source>
+                <target>Retour à l'accueil</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_profile_show_btn_edit">
+                <source>fo commande profile show button edit</source>
+                <target>Modifier</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_profile_edit_title">
+                <source>fo commande profile edit title</source>
+                <target>Mon profil</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_profile_edit_btn_cancel">
+                <source>fo commande profile edit btn cancel</source>
+                <target>Annuler</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_login_editoriel_label">
+                <source>commande login editorial label</source>
+                <target>Editorial</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_base_template_title">
+                <source>title home page</source>
+                <target>Air Liquide - Prise de commandes</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_base_template_client_name">
+                <source>client name</source>
+                <target>Air Liquide</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_base_template_application_name">
+                <source>application name</source>
+                <target>Prise de commandes</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_base_edit_profil_link_text">
+                <source>edit profil link text</source>
+                <target>Profil</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_base_legal_notices_link_text">
+                <source>Fo legal notices link text</source>
+                <target>Mentions légales</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_base_copyright_text">
+                <source>copyright text</source>
+                <target>© Copyright AIR LIQUIDE 2012</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_title">
+                <source>new commande</source>
+                <target>Nouvelle commande</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_contact_livraison_label">
+                <source>contact livraison label</source>
+                <target>Contact de votre lieu de livraison :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_contact_livraison_phone_label">
+                <source>contact livraison phone label</source>
+                <target>Tél :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_contact_livraison_fax_label">
+                <source>contact livraison fax label</source>
+                <target>Fax :</target>
+            </trans-unit>
+
+             <trans-unit id="fo_commande_index_societe_label">
+                <source>societe label</source>
+                <target>Société :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_date_commande_label">
+                <source>date commande label</source>
+                <target>Date de commande :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_message_info">
+                <source>commande message info</source>
+                <target>MERCI DE NOUS FAIRE PARVENIR VOTRE COMMANDE SI POSSIBLE AVANT 11H00</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_modal_chantier_title">
+                <source>title modal chantier</source>
+                <target>Adresse Chantier</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_modal_chantier_button_valider">
+                <source>button validate chantier</source>
+                <target>Valider</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_modal_chantier_button_fermer">
+                <source>button cancel chantier</source>
+                <target>Fermer</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_chantier_label">
+                <source>chantier</source>
+                <target>Chantier</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_chantier_remove">
+                <source>remove chantier</source>
+                <target>Supprimer</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_chantier_dechargement_label">
+                <source>chantier dechargement label</source>
+                <target>- Point de déchargement :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_livraison_label">
+                <source>livraison label</source>
+                <target>Point de livraison :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_steps_livraison_label">
+                <source>commande flow step livraison</source>
+                <target>Point de livraison</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_steps_select products_label">
+                <source>commande flow step select products</source>
+                <target>Sélection des produits</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_steps_infos_chantier_label">
+                <source>commande flow step infos chantier</source>
+                <target>Informations chantier</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_steps_recapitulatif_label">
+                <source>commande flow step recapitulatif</source>
+                <target>Récapitulatif</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_steps_confirmation_label">
+                <source>commande flow step confirmation</source>
+                <target>Confirmation</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_modal_chantier_name_label">
+                <source>modal chantier name label</source>
+                <target>Nom</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_modal_chantier_addresse_label">
+                <source>modal chantier addresse label</source>
+                <target>Adresse</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_modal_chantier_voie_label">
+                <source>modal chantier voie label</source>
+                <target>N°, Voie</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_modal_chantier_cp_label">
+                <source>modal chantier cp label</source>
+                <target>CP</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_modal_chantier_city_label">
+                <source>modal chantier city label</source>
+                <target>Ville</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_modal_chantier_dechargement_label">
+                <source>modal chantier point dechargement label</source>
+                <target>Point de déchargement</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_infos_title">
+                <source>commande flow step products infos title</source>
+                <target>Informations générales</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_selection_title">
+                <source>commande flow step products selection title</source>
+                <target>Sélection des produits</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_observations_title">
+                <source>commande flow step products observations title</source>
+                <target>Informations</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_infos_commande_num_label">
+                <source>step products commande num label</source>
+                <target>Commande N° (maximum 30 caractères)</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_infos_livraison_label">
+                <source>step products commande livraison label</source>
+                <target>Lieu de livraison :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_infos_jour_tournee_label">
+                <source>step products commande jour tournee label</source>
+                <target>Jour de tournée Air Liquide :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_infos_dechargement_label">
+                <source>step products commande dechargement label</source>
+                <target>Point de déchargement :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_lignes_name_label">
+                <source>commande flow step lignes name label</source>
+                <target>Nom du produit</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_lignes_reference_label">
+                <source>commande flow step lignes reference label</source>
+                <target>Référence produit</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_lignes_client_label">
+                <source>commande flow step lignes client label</source>
+                <target>Référence produit client</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_lignes_a_livrer_label">
+                <source>commande flow step lignes a livrer label</source>
+                <target>À livrer (emballage plein)</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_lignes_a_reprendre_label">
+                <source>commande flow step lignes a reprendre label</source>
+                <target>À reprendre (emballage vide)</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_lignes_reclamation_label">
+                <source>commande flow step lignes reclamation label</source>
+                <target>Reprise emballage plein ou réclamation</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_lignes_footer_text">
+                <source>commande flow step lignes footer text</source>
+                <target>Si vous souhaitez commander d'autres produits, veuillez contacter vos interlocuteurs commerciaux.</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_lignes_product_help">
+                <source>commande flow step lignes product remplace help</source>
+                <target>Ce produit n'est plus commandable.Il a été remplacé par le produit :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_products_observations_count_caracters_text">
+                <source>commande flow step products count caracters text</source>
+                <target>caractère(s) restant(s)</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_label">
+                <source>commande flow step chantier fieldset label</source>
+                <target>Chantier</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_name_label">
+                <source>commande flow step chantier name label</source>
+                <target>Nom du chantier :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_livraison_addresse_label">
+                <source>commande flow step chantier livraison addresse label</source>
+                <target>Adresse de livraison :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_dechargement_label">
+                <source>commande flow step chantier dechargement label</source>
+                <target>Point de déchargement :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_identifiant_label">
+                <source>commande flow step chantier identifiant label</source>
+                <target>Identifiant interne (N° d'affaire, N° chantier ...)</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_carte_mobilite_label">
+                <source>commande flow step chantier carte mobilite label</source>
+                <target>Carte mobilité</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_accessiblite_label">
+                <source>commande flow step chantier accessiblite label</source>
+                <target>Contraintes d'accessibilité (accès règlementé, type de véhicule...)</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_responsable_label">
+                <source>commande flow step chantier responsable label</source>
+                <target>Responsable</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_contact_label">
+                <source>commande flow step chantier contact label</source>
+                <target>Contact sur le chantier</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_ouverture_fermeture_label">
+                <source>commande flow step chantier ouverture fermeture label</source>
+                <target>Ouverture/fermeture du chantier Gaz</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_num_carte_label">
+                <source>commande flow step chantier numero carte label</source>
+                <target>N° Carte</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_num_do_label">
+                <source>commande flow step chantier numero do label</source>
+                <target>N° DO</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_societe_label">
+                <source>commande flow step chantier societe label</source>
+                <target>Société</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_name_do_label">
+                <source>commande flow step chantier name do label</source>
+                <target>Nom du DO (Donneur d'ordre)</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_sem_remorque_label">
+                <source>commande flow step chantier semi remorque label</source>
+                <target>Semi remorque</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_type_vehicule_label">
+                <source>commande flow step chantier type vehicule label</source>
+                <target>Si non, type de véhicule</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_autre_contrainte_label">
+                <source>commande flow step chantier autre contrainte label</source>
+                <target>Autre contrainte</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_horaire_ouverture_label">
+                <source>commande flow step chantier horaire ouverture label</source>
+                <target>Horaire d'ouverture</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_responsable_name_label">
+                <source>commande flow step chantier responsable name label</source>
+                <target>Nom</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_responsable_tel_label">
+                <source>commande flow step chantier responsable phone label</source>
+                <target>Tél</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_responsable_email_label">
+                <source>commande flow step chantier responsable email label</source>
+                <target>Email</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_contact_name_label">
+                <source>commande flow step chantier contact name label</source>
+                <target>Nom</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_contact_tel_label">
+                <source>commande flow step chantier contact phone label</source>
+                <target>Tél</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_ouverture_du_label">
+                <source>commande flow step chantier ouverture du label</source>
+                <target>Du</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_ouverture_au_label">
+                <source>commande flow step chantier ouverture au label</source>
+                <target>Au</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_bouteilles_label">
+                <source>commande flow step chantier bouteilles label</source>
+                <target>Avez-vous déjà des bouteilles Air Liquide ?</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_yes_label">
+                <source>commande flow step chantier yes label</source>
+                <target>Oui</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_chantier_no_label">
+                <source>commande flow step chantier no label</source>
+                <target>Non</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_title">
+                <source>commande flow step recap title</source>
+                <target>COMMANDE de gaz industriels en bouteilles, cadres ou récipients cryogéniques</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_emetteur_fieldset_label">
+                <source>commande flow step recap emetteur label</source>
+                <target>Emetteur</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_reference_client_label">
+                <source>commande flow step recap reference client label</source>
+                <target>Réference client</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_donneur_ordre_label">
+                <source>commande flow step recap donneur ordre label</source>
+                <target>Donneur d'ordre :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_destinataire_fieldset_label">
+                <source>commande flow step recap destinataire label</source>
+                <target>Destinataire</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_destinataire_name_label">
+                <source>commande flow step recap destinataire name label</source>
+                <target>Nom :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_destinataire_email_label">
+                <source>commande flow step recap destinataire email label</source>
+                <target>Email :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_destinataire_phone_label">
+                <source>commande flow step recap destinataire phone label</source>
+                <target>Tél :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_destinataire_fax_label">
+                <source>commande flow step recap destinataire fax label</source>
+                <target>Fax :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_commande_fieldset_label">
+                <source>commande flow step recap commande fieldset label</source>
+                <target>Commande</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_commande_numero_label">
+                <source>commande flow step recap commande numero label</source>
+                <target>Commande N° :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_commande_emetteur_label">
+                <source>commande flow step recap commande emetteur label</source>
+                <target>Emise par :</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_chantier_raison_sociale_label">
+                <source>commande flow step recap chantier raison sociale label</source>
+                <target>Raison sociale</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_chantier_accessiblite_label">
+                <source>commande flow step recap chantier accessiblite label</source>
+                <target>Contrainte d'accessibilité</target>
+            </trans-unit>
+
+            <trans-unit id="btn_valider_commande">
+                <source>commande flow step recap btn validate commande</source>
+                <target>Valider la commande</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_btn_print_commande_label">
+                <source>commande flow step recap btn print commande</source>
+                <target>Imprimer</target>
+            </trans-unit>
+
+            <trans-unit id="fo_commande_index_step_recap_btn_new_commande_label">
+                <source>commande flow step recap btn new commande</source>
+                <target>Nouvelle commande</target>
+            </trans-unit>
+
+
+
+
+
+
+
+
+
+        </body>
+    </file>
+</xliff>

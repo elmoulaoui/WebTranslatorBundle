@@ -1,0 +1,29 @@
+index:
+    pattern:  /index/
+    defaults: { _controller: WebTranslatorBundle:Translator:index }
+
+show_bundles:
+    pattern: /show_bundles/
+    defaults: { _controller: WebTranslatorBundle:Translator:showBundles }
+
+show_domains:
+    pattern: /show_domains/{bundle}
+    defaults: { _controller: WebTranslatorBundle:Translator:showDomains }
+
+show_keys:
+    pattern: /show_keys/{bundle}/{domain}
+    defaults: { _controller: WebTranslatorBundle:Translator:showKeys }
+
+show_key:
+    pattern: /show_key/{bundle}/{domain}/{key}
+    defaults: { _controller: WebTranslatorBundle:Translator:showKey }
+
+update_key:
+    pattern: /update_key/{bundle}/{domain}/{key}
+    defaults: { _controller: WebTranslatorBundle:Translator:updateKey }
+    requirements:
+      _method: POST
+
+show_keys_missing_locale:
+    pattern: /show_keys_missing_locale/{bundle}/{domain}/{locale}
+    defaults: { _controller: WebTranslatorBundle:Translator:showKeysMissingLocale }

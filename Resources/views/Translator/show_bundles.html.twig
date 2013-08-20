@@ -1,0 +1,16 @@
+
+
+{% block title "Web Translator" %}
+
+{% block content_header '' %}
+
+{% block content %}
+    <h1>Bundles</h1>
+    <ul id="bundle-list">
+
+        {% for bundle, directory in bundles %}
+            <li><a href="{{ path('show_domains', {'bundle': bundle}) }}">{{bundle}}</a></li>
+        {% endfor %}
+
+    </ul>
+{% endblock %}

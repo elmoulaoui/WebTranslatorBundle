@@ -1,0 +1,7 @@
+parameters:
+#    sqli_web_translator.example.class: Sqli\WebTranslatorBundle\Example
+
+services:
+#    sqli_web_translator.example:
+#        class: %sqli_web_translator.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
