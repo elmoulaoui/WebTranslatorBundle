@@ -1,8 +1,0 @@
-{
-    "name": "elmoulaoui/web-translator-bundle",
-    "autoload": {
-        "psr-0" : {
-            "Translator\\WebTranslatorBundle" : "src"
-        }
-    }
-}
