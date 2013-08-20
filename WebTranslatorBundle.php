@@ -1,6 +1,6 @@
 <?php
 
-namespace WebTranslatorBundle;
+namespace Web\TranslatorBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

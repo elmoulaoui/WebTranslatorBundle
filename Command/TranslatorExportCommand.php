@@ -1,9 +1,9 @@
 <?php
 
-namespace WebTranslatorBundle\Command;
+namespace Web\TranslatorBundle\Command;
 // Message
-use WebTranslatorBundle\Document\Message;
-use WebTranslatorBundle\Dumper\Dumper;
+use Web\TranslatorBundle\Document\Message;
+use Web\TranslatorBundle\Dumper\Dumper;
 
 // Command stuff
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;

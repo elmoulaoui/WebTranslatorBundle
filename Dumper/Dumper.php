@@ -1,5 +1,5 @@
 <?php
-namespace WebTranslatorBundle\Dumper;
+namespace Web\TranslatorBundle\Dumper;
 
 /**
  *
@@ -12,7 +12,7 @@ class Dumper
     {
         switch ($format) {
         case 'yaml':
-            $class = "\\WebTranslatorBundle\\Yaml\\Dumper";
+            $class = "\\Web\\TranslatorBundle\\Yaml\\Dumper";
             break;
         case 'xliff':
             $class = "\\Symfony\\Component\\Translation\\Dumper\\XliffFileDumper";

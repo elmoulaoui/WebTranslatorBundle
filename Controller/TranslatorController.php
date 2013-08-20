@@ -1,9 +1,9 @@
 <?php
 
-namespace WebTranslatorBundle\Controller;
+namespace Web\TranslatorBundle\Controller;
 
-use WebTranslatorBundle\Entity\Translation;
-use WebTranslatorBundle\Entity\Message;
+use Web\TranslatorBundle\Entity\Translation;
+use Web\TranslatorBundle\Entity\Message;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Response;

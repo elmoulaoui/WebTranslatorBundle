@@ -1,10 +1,10 @@
 <?php
 
-namespace WebTranslatorBundle\Command;
+namespace Web\TranslatorBundle\Command;
 // Message
-use WebTranslatorBundle\Entity\Translation;
-use WebTranslatorBundle\Loader\Loader;
-use WebTranslatorBundle\Entity\Message;
+use Web\TranslatorBundle\Entity\Translation;
+use Web\TranslatorBundle\Loader\Loader;
+use Web\TranslatorBundle\Entity\Message;
 
 // Command stuff
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;

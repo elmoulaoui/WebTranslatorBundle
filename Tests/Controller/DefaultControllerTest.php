@@ -1,6 +1,6 @@
 <?php
 
-namespace WebTranslatorBundle\Tests\Controller;
+namespace Web\TranslatorBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

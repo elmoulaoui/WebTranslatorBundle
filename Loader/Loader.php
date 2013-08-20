@@ -1,5 +1,5 @@
 <?php
-namespace WebTranslatorBundle\Loader;
+namespace Web\TranslatorBundle\Loader;
 
 /**
  *

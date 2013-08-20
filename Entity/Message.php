@@ -1,6 +1,6 @@
 <?php
 
-namespace WebTranslatorBundle\Entity;
+namespace Web\TranslatorBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
@@ -93,10 +93,10 @@ class Message
     /**
      * Set translation
      *
-     * @param \WebTranslatorBundle\Entity\Translation $translation
+     * @param \Web\TranslatorBundle\Entity\Translation $translation
      * @return Message
      */
-    public function setTranslation(\WebTranslatorBundle\Entity\Translation $translation = null)
+    public function setTranslation(\Web\TranslatorBundle\Entity\Translation $translation = null)
     {
         $this->translation = $translation;
 
@@ -106,7 +106,7 @@ class Message
     /**
      * Get translation
      *
-     * @return \WebTranslatorBundle\Entity\Translation
+     * @return \Web\TranslatorBundle\Entity\Translation
      */
     public function getTranslation()
     {

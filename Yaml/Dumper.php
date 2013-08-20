@@ -1,6 +1,6 @@
 <?php
 
-namespace WebTranslatorBundle\Yaml;
+namespace Web\TranslatorBundle\Yaml;
 
 class Dumper
 {
