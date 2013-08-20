@@ -17,5 +17,5 @@
             "Web\\TranslatorBundle": ""
         }
     },
-    "target-dir": "Web/TranslatorBundle",
+    "target-dir": "Web/TranslatorBundle"
 }
