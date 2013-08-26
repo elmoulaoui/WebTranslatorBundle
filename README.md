@@ -7,7 +7,16 @@ manage translation files with web pages
 Installation
 ===================
 
-1) app/AppKernel.php, enable the bundle : 
+1) add bundle to composer.json
+
+"require": {
+	"elmoulaoui/web-translator-bundle": "dev-master"
+	}
+
+2) php composer.phar update
+
+
+3) app/AppKernel.php, enable the bundle : 
 
 $bundles = array(
                 ....
@@ -16,7 +25,7 @@ $bundles = array(
         );
 
 
-2) add bundle configuration in app/config/parameters.yml
+4) add bundle configuration in app/config/parameters.yml
 
     translator_bundles:e
       acme-demo-bundle:  "%kernel.root_dir%/../src/Acme/DemoBundle"
@@ -26,7 +35,7 @@ $bundles = array(
     translator_format: xliff
 
 
-3) import bundle routing in app/config/routing.yml
+5) import bundle routing in app/config/routing.yml
 
 web_translator:
     resource: "@WebTranslatorBundle/Resources/config/routing.yml"

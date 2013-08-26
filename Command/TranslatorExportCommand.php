@@ -79,12 +79,16 @@ class TranslatorExportCommand extends ContainerAwareCommand
                 $translated_message = $message->getMessage();
                 $trimmed_msg = \trim($translated_message);
                 if (!empty($trimmed_msg)
-                        && strcmp($specific_locale, $locale) == 0) {
+                        && $specific_locale === $locale) {
+
+                    $messages_to_dump[$domain] = array();
                     $messages_to_dump[$domain][$specific_message
                             ->getTranslationKey()] = $translated_message;
                 }
             }
+
         }
+
         ksort($messages_to_dump[$domain]);
         if (count($messages_to_dump[$domain]) > 0) {
             $dumper = Dumper::create($translator_format);
